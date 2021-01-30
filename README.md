@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetnandvikar&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetnandvikar" /> </p>
 
-- 🔭 I’m currently working as a frontend developer for [Hackstrap Technologies](https://hackstrap.com/)
+- 🔭 I’m currently working as a freelance Web developer
 
 - 🌱 I’m currently learning **more about Node.js**
 
