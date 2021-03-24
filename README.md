@@ -1,7 +1,5 @@
 <h1> My name is Abhijeet Nandvikar</h1>
-<h3>I am a frontend developer form India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetnandvikar&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetnandvikar" /> </p>
+<h3>I am a frontend developer form Mumbai</h3>
 
 - 🔭 I’m currently working as a freelance Web developer
 
@@ -11,10 +9,8 @@
 
 - 📝 Check out my blogs on [https://abhijeet-blogs.netlify.app/](https://abhijeet-blogs.netlify.app/)
 
-- 📫 How to reach me **abhijeetvn1234@gmail.com**
+- 📫 You can connect with me on **[twitter.com/AbhiNandvikar](https://twitter.com/AbhiNandvikar)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/abhinandvikar" target="blank"><img src="https://img.shields.io/twitter/follow/abhinandvikar?logo=twitter&style=for-the-badge" alt="abhinandvikar" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/abhinandvikar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhinandvikar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhijeet-nandvikar-724b7818b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhijeet-nandvikar-724b7818b" height="30" width="40" /></a>
