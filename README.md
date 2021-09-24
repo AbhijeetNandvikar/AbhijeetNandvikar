@@ -1,13 +1,13 @@
 <h1> My name is Abhijeet Nandvikar</h1>
 <h3>I am a frontend developer form Mumbai</h3>
 
-- 🔭 I’m currently working as a freelance Web developer
+- 🔭 I’m currently working at Hackatrap Technologies Pvt. Ltd. as a Front-end developer
 
 - 🌱 I’m currently learning **more about Node.js**
 
 - 👨‍💻 All of my projects are available at [github.com/AbhijeetNandvikar](github.com/AbhijeetNandvikar)
 
-- 📝 Check out my blogs on [https://abhijeet-blogs.netlify.app/](https://abhijeet-blogs.netlify.app/)
+- 📝 Check out my blogs on [Hashnode](https://hashnode.com/@abhiNandvikar)
 
 - 📫 You can connect with me on **[twitter.com/AbhiNandvikar](https://twitter.com/AbhiNandvikar)**
 
