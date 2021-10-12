@@ -10,7 +10,6 @@
 - 📝 Check out my blogs on [Hashnode](https://hashnode.com/@abhiNandvikar)
 
 - 📫 You can connect with me on **[twitter.com/AbhiNandvikar](https://twitter.com/AbhiNandvikar)**
-- Here is my **[resume](https://drive.google.com/file/d/1kIuAuNyM4Ho58W4t_z4ZBzf77ZMoRQwC/view?usp=sharing)**
 
 <p align="left">
 <a href="https://twitter.com/abhinandvikar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhinandvikar" height="30" width="40" /></a>
