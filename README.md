@@ -1,7 +1,7 @@
 <h1> My name is Abhijeet Nandvikar</h1>
 <h3>I am a frontend developer form Mumbai</h3>
 
-- 🔭 I’m currently working at Procedure Technologies Pvt. Ltd. as a Front-end developer
+- 🔭 I’m currently working at Procedure Technologies Pvt. Ltd.
 
 - 🌱 I’m currently learning **more about Node.js**
 
