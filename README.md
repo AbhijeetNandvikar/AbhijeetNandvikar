@@ -5,8 +5,8 @@
 <p>
   <a href="https://www.linkedin.com/in/abhijeet-nandvikar-724b7818b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://hashnode.com/@abhiNandvikar"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AbhijeetNandvikar&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   <a href="https://twitter.com/AbhiNandvikar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetNandvikar&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 </p>
 
@@ -16,15 +16,15 @@
 
 Full-stack developer and AI-first engineer with ~5 years designing, building and shipping production web apps end to end. Today I'm a Software Engineer @ HouseWorks Inc — a healthcare technology company — building EHR systems and an oncology cancer-care platform, with AI woven into the stack.
 
-I work across the whole stack: React, Next.js & TypeScript interfaces and the Node.js, Python & Django APIs and microservices behind them, deployed with Docker on AWS. I build with LLMs, RAG pipelines and agentic workflows (MCP, LangChain), and weave AI into my daily dev wor, faster.
+I work across the whole stack: React, Next.js & TypeScript interfaces and the Node.js, Python & Django APIs and microservices behind them, deployed with Docker on AWS. I build with LLMs, RAG pipelines and agentic workflows (MCP, LangChain), and weave AI into my daily dev workflow to ship better software, faster.
 
-- 🔭 **Currently:** Software Engineer @ HouseWorks Inc — healthcare platforms, AI in
+- 🔭 **Currently:** Software Engineer @ HouseWorks Inc — healthcare platforms, AI in the stack
 - 💻 **Full-stack:** React, Next.js, TypeScript ↔ Node.js, Python, Django
-- 🏗️ **Build & ship:** microservices, Docker, AWS — owning features from idea to pro
+- 🏗️ **Build & ship:** microservices, Docker, AWS — owning features from idea to production
 - 🤖 **AI-first:** LLMs, RAG, agents & MCP — AI as a real part of the stack
 - 🌱 **Always learning:** agentic AI, system design & backend at scale
 - ✍️ **I write** about web dev on [Hashnode](https://hashnode.com/@abhiNandvikar)
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/abhijeet-nandvikar-724b781
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/abhijeet-nandvikar-724b7818b/)
 
 ---
 
