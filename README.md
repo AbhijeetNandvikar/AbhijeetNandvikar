@@ -1,179 +1,67 @@
-<h1> My name is Abhijeet Nandvikar</h1>
-<h3>I am a frontend developer from Mumbai</h3>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&vCenter=true&width=600&lines=Full-Stack+Developer;AI-First+Engineer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node+%E2%80%A2+Python;Building+with+LLMs%2C+RAG+%26+Agents" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working at Procedure Technologies Pvt. Ltd.
-
-- 🌱 I’m currently learning **more about Node.js**
-
-- 👨‍💻 All of my projects are available at [github.com/AbhijeetNandvikar](github.com/AbhijeetNandvikar)
-
-- 📝 Check out my blogs on [Hashnode](https://hashnode.com/@abhiNandvikar)
-
-- 📫 You can connect with me on **[twitter.com/AbhiNandvikar](https://twitter.com/AbhiNandvikar)**
-
-<p align="left">
-<a href="https://twitter.com/abhinandvikar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhinandvikar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhijeet-nandvikar-724b7818b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhijeet-nandvikar-724b7818b" height="30" width="40" /></a>
-<a href="https://instagram.com/abhi.nandvikar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhi.nandvikar" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<!-- New Order -->
-<a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-      alt="gatsby"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://redux.js.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
- 
+<p>
+  <a href="https://www.linkedin.com/in/abhijeet-nandvikar-724b7818b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/AbhiNandvikar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://hashnode.com/@abhiNandvikar"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+  <a href="https://linktr.ee/abhijeetn"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetNandvikar&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
+---
 
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetnandvikar&show_icons=true&theme=tokyonight" alt="abhijeetnandvikar" /></p>
+Full-stack developer and AI-first engineer with ~5 years designing, building and shipping production web apps end to end. Today I'm a Software Engineer @ HouseWorks Inc — a healthcare technology company — building EHR systems and an oncology cancer-care platform, with AI woven into the stack.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetnandvikar&show_icons=true&locale=en&theme=tokyonight" alt="abhijeetnandvikar" /></p>
+I work across the whole stack: React, Next.js & TypeScript interfaces and the Node.js, Python & Django APIs and microservices behind them, deployed with Docker on AWS. I build with LLMs, RAG pipelines and agentic workflows (MCP, LangChain), and weave AI into my daily dev wor, faster.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetnandvikar&theme=tokyonight" alt="abhijeetnandvikar" /></p>
+- 🔭 **Currently:** Software Engineer @ HouseWorks Inc — healthcare platforms, AI in
+- 💻 **Full-stack:** React, Next.js, TypeScript ↔ Node.js, Python, Django
+- 🏗️ **Build & ship:** microservices, Docker, AWS — owning features from idea to pro
+- 🤖 **AI-first:** LLMs, RAG, agents & MCP — AI as a real part of the stack
+- 🌱 **Always learning:** agentic AI, system design & backend at scale
+- ✍️ **I write** about web dev on [Hashnode](https://hashnode.com/@abhiNandvikar)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/abhijeet-nandvikar-724b781
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / LLM Engineering**
+
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+<a href="https://en.wikipedia.org/wiki/Large_language_model"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/></a>
+<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation"><img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge&logoColor=white" alt="RAG"/></a>
+<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/></a>
+
+**Frontend**
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+<a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
+<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/></a>
+
+**Backend**
+
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+
+**Cloud & DevOps**
+
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+
+---
+
+⚡ *Let's build something useful — and let's build it smart.*
