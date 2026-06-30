@@ -4,10 +4,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/abhijeet-nandvikar-724b7818b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/AbhiNandvikar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://hashnode.com/@abhiNandvikar"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <a href="https://linktr.ee/abhijeetn"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
   <img src="https://komarev.com/ghpvc/?username=AbhijeetNandvikar&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <a href="https://twitter.com/AbhiNandvikar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+
 </p>
 
 ---
